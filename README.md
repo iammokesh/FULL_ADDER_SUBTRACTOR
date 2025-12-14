@@ -48,8 +48,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![full adder 3](https://github.com/user-attachments/assets/778797e8-2334-4c2f-bdef-75616c52c6be)
+![full oder 4](https://github.com/user-attachments/assets/85d40d7b-f991-429d-8f52-59ff030e9640)
 
 **Output Timing Waveform**
+![full adder 1](https://github.com/user-attachments/assets/54db373c-1fd3-47ca-a156-83af53f97c98)
+![full adder2](https://github.com/user-attachments/assets/bd726a5a-3c73-4e81-8d97-c4225f04a6a3)
 
 **Result:**
 
